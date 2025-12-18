@@ -3,7 +3,7 @@
 # 📖 Gemini 沉浸式阅读伴侣 (Gemini Immersive Reader)
 
 [![Tampermonkey](https://img.shields.io/badge/Script-Tampermonkey-success?style=flat&logo=tampermonkey)](https://www.tampermonkey.net/)
-[![Version](https://img.shields.io/badge/Version-v1.05-blue?style=flat)](https://raw.githubusercontent.com/JackeyCloud/gemini-immersive-reader/main/gemini-reader.user.js)
+[![Version](https://img.shields.io/badge/Version-v1.02-blue?style=flat)](https://raw.githubusercontent.com/JackeyCloud/gemini-immersive-reader/main/gemini-reader.user.js)
 [![License](https://img.shields.io/badge/License-All_Rights_Reserved-red.svg)](LICENSE)
 [![Github Followers](https://img.shields.io/github/followers/JackeyCloud?style=social)](https://github.com/JackeyCloud)
 
